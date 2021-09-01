@@ -1,0 +1,11 @@
+Stage 1: Front-End Development Path
+
+Development:
+
+1. HTML & CSS
+
+2. Javascript
+
+Design
+
+1. Fig
